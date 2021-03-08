@@ -1,4 +1,3 @@
-# DFT-Forma-Retangular
 
 # DFT Forma Retangular
 Transformada de Fourier na forma retangular.
