@@ -1,6 +1,6 @@
 # DFT-Forma-Retangular
 Transformada de Fourier na forma retangular.
-# JogoDaVelha
+# DFT Forma Retangular
 Jogo da velha em Javascript trabalhando algoritimos de Inteligencia Artificial. Página Desenvolvida para testes.
 
 
